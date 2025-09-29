@@ -30,17 +30,6 @@ Run the main script:
 
 bash
 python AFFDM-Advanced-Financial-Fraud-Detection-Model-Project-2.py
-Power BI Report Access
-The full Power BI dashboard for this project is too large to include here (over 1 GB). It is hosted externally on Google Drive for convenient access.
-
-Power BI Dashboard Link: https://drive.google.com/file/d/1GaTXsvXaJXsmxx8ydB8pIaLa31pIkeBl/view?usp=sharing
-
-Please download and open with Power BI Desktop to explore detailed visualizations.
-
-Notes
-Keep your dataset files organized and update paths when running on different machines.
-
-The Power BI visualizations complement the Python model by providing dashboard insights for fraud detection.
 
 Contact
 For questions or collaboration, please contact:
