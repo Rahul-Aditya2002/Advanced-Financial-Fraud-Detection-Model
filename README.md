@@ -23,8 +23,7 @@ Running the Project Locally
 Clone this repo:
 
 bash
-git clone 
-cd your-affdm-repo
+git clone https://github.com/Rahul-Aditya2002/Advanced-Financial-Fraud-Detection-Model
 Verify your dataset file paths in AFFDM-Advanced-Financial-Fraud-Detection-Model-Project-2.py match your local machine setup and update if necessary.
 
 Run the main script:
