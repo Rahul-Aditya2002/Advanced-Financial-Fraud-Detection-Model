@@ -1,0 +1,27 @@
+# AFFDM Project Dataset Links
+
+The datasets for the Advanced Financial Fraud Detection Model (AFFDM) project are hosted in a shared Google Drive folder due to their large size.
+
+Google Drive Folder Link:
+https://drive.google.com/drive/folders/18mBPPFZteagemCJPFf4VuszMPy4QxNK
+
+Contained Files:
+- creditcard.csv (143.8 MB):-
+
+https://drive.google.com/file/d/1mj7LMIKHP95ozscc0ImqQmlD4utF61eV/view?usp=sharing
+
+- Financial_Fraud_detection.csv (470.7 MB):-
+
+https://drive.google.com/file/d/1SawmzcH26eXs082pWCkADjgzKCYxMPRr/view?usp=sharing
+
+- Synthetic_Financial_datasets_log.csv (470.7 MB):-
+
+https://drive.google.com/file/d/1Y_Qh_fRZ5CVq1bC-CSMDkEfetbt0i0UN/view?usp=sharing
+
+Instructions:
+1. Open the link above.
+2. Download each CSV file to your local computer.
+3. Place the files in your project directory, or update the dataset paths in your Python scripts to match your local folder.
+4. Ensure your code uses the correct file names provided above.
+
+If you encounter any issues with access, please contact: adirahul0408@gmail.com
